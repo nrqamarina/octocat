@@ -1,10 +1,7 @@
 # octocat
 My personal repository
-
 Hi there! I'm Nur Qamarina Binti Mohd Faizal 💻🌐
-
 Bachelor of Information Technology Student
-
 🚀 CURRENT FOCUS
 I am training to bridge the gap between complex technology and business needs. My studies revolve around network infrastructure, systems analysis, and information security.
 
