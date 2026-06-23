@@ -1,8 +1,8 @@
 # octocat
 My personal repository
-┌────────────────────────────────────────┐
+
 Hi there! I'm Nur Qamarina Binti Mohd Faizal 💻🌐
-└────────────────────────────────────────┘
+
 Bachelor of Information Technology Student
 
 🚀 CURRENT FOCUS
